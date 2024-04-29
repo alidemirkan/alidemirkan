@@ -1,4 +1,4 @@
-![MasterHead](https://initiate.alphacoders.com/images/134/cropped-820-260-1341480.png?263) </br>
+![MasterHead](https://initiate.alphacoders.com/images/134/cropped-820-260-1341480.png?109) </br>
 ![](https://komarev.com/ghpvc/?username=alidemirkan&color=red)
 
 <div align="center">
