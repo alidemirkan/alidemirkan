@@ -51,8 +51,10 @@
  <summary><h2>🎥 Gameplay Video of My Games:</h2></summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![youtube.com](https://ytcards.demolab.com/?id=1c0mPuMVeDA&title=LabyrinthLunacy-Gameplay&lang=en&timestamp=1690383611&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Labyrinth Lunacy | Gameplay | github.com/alidemirkan")](https://www.youtube.com/watch?v=1c0mPuMVeDA)
+[![LabyrinthLunacy](https://ytcards.demolab.com/?id=1c0mPuMVeDA&title=Labyrinth+Lunacy&lang=en&timestamp=1712757600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Labyrinth Lunacy | Gameplay | github.com/alidemirkan")](https://www.youtube.com/watch?v=1c0mPuMVeDA)
+[![FlappyBird](https://ytcards.demolab.com/?id=-g6ys0U8-V4&t=2s&title=Flappy+Bird&lang=en&timestamp=1714417380&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "FlappyBird")](https://www.youtube.com/watch?v=-g6ys0U8-V4&t=2s)
 
+<!-- END YOUTUBE-CARDS -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alidemirkan/alidemirkan/output/github-contribution-grid-snake-dark.svg">
