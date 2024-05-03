@@ -10,7 +10,7 @@
  </a>
 </div>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHBlaTNnMW8wdjlhanBqajE3d3duNjFsZzN3YjRmZ2xsMDJudm83diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" alt="Coding" width=200 height=200 align="right"> 
+<img src="https://tenor.com/tr/view/lol-haha-wow-mr-robot-laugh-gif-5711275.gif" alt="Coding" width=245 height=180 align="right"> 
 <br/> 
 <br/>
 
