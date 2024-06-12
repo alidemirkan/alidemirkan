@@ -1,5 +1,7 @@
-![MasterHead](https://initiate.alphacoders.com/images/134/cropped-820-260-1341480.png?109) </br>
+<!-- ![MasterHead](https://initiate.alphacoders.com/images/134/cropped-820-260-1341480.png?109) </br>
 ![](https://komarev.com/ghpvc/?username=alidemirkan&color=red)
+
+
 
 <div align="center">
 
@@ -13,6 +15,7 @@
 <img src="https://tenor.com/tr/view/lol-haha-wow-mr-robot-laugh-gif-5711275.gif" alt="Coding" width=245 height=180 align="right"> 
 <br/> 
 <br/>
+-->
 
 <h3 align="left">&nbsp; A passionate Unreal Engine developer from Türkiye </h3>
 
@@ -76,7 +79,7 @@
 
 
 <!--
-yorum satırı
+comments
 -->
 
 <!--
