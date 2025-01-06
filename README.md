@@ -91,15 +91,15 @@ How to reach me **alidemirkandev@gmail.com**
 [![UnrealEngineTutorial](https://ytcards.demolab.com/?id=RbFNSiQptlg&title=UnrealEngineTutorial&lang=en&timestamp=1714476720&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "UnrealEngineTutorial | github.com/alidemirkan")](https://www.youtube.com/watch?v=RbFNSiQptlg)
 
 
+ ![snake gif](https://github.com/alidemirkan/alidemirkan/blob/output/github-snake-dark.svg)
 
-
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alidemirkan/alidemirkan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alidemirkan/alidemirkan/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alidemirkan/alidemirkan/output/github-contribution-grid-snake.svg">
 </picture>
-
-
+-->
   
   
  <!--
